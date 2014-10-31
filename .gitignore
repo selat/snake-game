@@ -1,0 +1,17 @@
+# cmake files #
+###############
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+
+# libraries #
+#############
+*.a
+*.o
+*.so
+
+# executables #
+###############
+snake-game
+*.exe
